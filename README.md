@@ -25,7 +25,7 @@ Voici un aperçu de l'application :
 
 
 
-<img width="434" height="665" alt="image" src="https://github.com/user-attachments/assets/80485b43-67ba-4cc7-ace1-a1b22ac4f7d3" />
+<img width="431" height="762" alt="image" src="https://github.com/user-attachments/assets/5978b0ea-4835-4cc0-babf-9b11a6354608" />
 
 <img width="429" height="755" alt="image" src="https://github.com/user-attachments/assets/37f2b9ba-3f4f-4c77-aba8-40d79490ff2b" />
 
